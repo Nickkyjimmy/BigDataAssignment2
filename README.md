@@ -52,8 +52,10 @@ To upload data to your MongoDB cluster:
 ---
 
 ### **ML Flows**
-🚧 **(Image Missing)**  
-
+**Image **  
+Electricity: 
+![Electricity MLflows](./Image/mlflow_elec.png)
+![Gas MLflows](./Image/mlflow_gas.png)
 ---
 
 ### **Visualization**
